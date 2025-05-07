@@ -139,4 +139,4 @@ One of the key features of this application is the "third pane" functionality, w
 - Add more interactive features like drag-and-drop for activities
 - Enhance offline support
 - Add multi-language support
-- Implement more advanced search and filtering options
+- Implement more advanced search and filtering options.
